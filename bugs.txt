@@ -1,0 +1,11 @@
+bug 1 
+when i keep decreasing the grid number while going from right to left or bottom to top remeber that as soon as the 
+grid-start-row and grid-start-column properties become negative they start from the last row or last column of the 
+grid
+
+bug 2
+sometimes even when the head goes through the food it wont get eaten need to figure out the reason
+
+bug 3
+allow the snake to just go beyond the boundry and turn immediately the body does some wierd behaviour
+best seen on the top bar and 4 large snake
